@@ -360,17 +360,13 @@ Potential improvements to extend this project:
 
 ## 👨‍💻 Author
 
-**Tushar Bagle**
+**Bhavesh Kumbhare**
 
 Aspiring Data Science & Machine Learning Enthusiast
 
 Interested in Python Programming, Statistics, Mathematics, Linear Algebra and Machine Learning.
 
-<p align="center">
-  <a href="https://github.com/TusharBagle">
-    <img src="https://img.shields.io/badge/GitHub-TusharBagle-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+
 
 ---
 
